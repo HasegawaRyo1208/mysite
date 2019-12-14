@@ -1,0 +1,38 @@
+header {
+  height: 82px;
+  width: 100%;
+}
+
+.inline-block {
+  display: inline-block;
+  height: 81px;
+  width: 643px;
+  padding-left: 24px;
+  color: #484848;
+}
+
+.inline-block .menu {
+  font-size: 30px;
+  margin: auto;
+  height: 80px;
+  padding: 0 20px;
+}
+
+.header {
+  width: 1167px;
+  height: 82px;
+}
+
+ul {
+  width: 318px;
+  height: 81px;
+}
+
+.logo {
+  width: 64px;
+  height: 80px;
+  padding: 24px 40px 0px 24px;
+  text-align: center;
+  display: inline-block;
+}
+/*# sourceMappingURL=style.css.map */
